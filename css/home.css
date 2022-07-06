@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #cccfcd;
+}
+
+section{
+    background-color: white;
+    height: 80px;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-items ul {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.nav-items ul li{
+    list-style: none;
+}
